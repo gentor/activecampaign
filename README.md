@@ -43,5 +43,6 @@ Documentation
 -------------
 
 [ActiveCampaign PHP API](https://github.com/ActiveCampaign/activecampaign-api-php)
+
 [API Methods Overview](http://www.activecampaign.com/api/overview.php)
 
