@@ -1,0 +1,26 @@
+{
+    "name": "gentor/activecampaign",
+    "description": "Wrapper on the ActiveCampaign PHP API - with custom methods and support for Laravel 5.x",
+    "keywords": [
+        "laravel",
+        "activecampaign",
+        "api"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgeni Nurkov",
+            "email": "evgeni.nurkov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 5.6",
+        "activecampaign/api-php": "^1.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gentor\\ActiveCampaign\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
